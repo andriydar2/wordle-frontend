@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from "react";
 
-const API = "https://dar.southcentralus.cloudapp.azure.com/api";
+const API =
+  process.env.REACT_APP_API_URL || "https://dar.southcentralus.cloudapp.azure.com/api";
 
 const CELL_STYLE = {
   width: "2.5em",
