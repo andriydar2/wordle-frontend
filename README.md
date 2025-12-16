@@ -31,3 +31,9 @@ Create an optimized production build in the `build` directory:
 ```bash
 npm run build
 ```
+
+## Front-end Preview
+This is a screenshot of what the front-end looks like:
+<p align="center">
+   <img width="572" height="832" alt="wordle_app" src="https://github.com/user-attachments/assets/5875e562-ba3e-4225-9c74-538623dc08cc" />
+</p>   
